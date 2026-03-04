@@ -1,5 +1,7 @@
 # 📊 Statistics Fundamentals Glossary
 
+![alt text](Screenshots/Statistics_Fundamentals.png)
+
 ![Statistics Fundamentals](https://img.shields.io/badge/Statistics_Fundamentals-Glossary-c8ff00?style=for-the-badge&logo=statista&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,6 +45,8 @@ This interactive glossary provides a comprehensive collection of statistical ter
 | **Hypothesis Testing** | 6+    | Hypothesis, Null Hypothesis, Alpha value        |
 | **Data Visualization** | 8+    | Histogram, Boxplot, Scatter Plot                |
 | **Advanced Topics**    | 5+    | Endogeneity, VIF, Overfitting                   |
+
+![alt text](Screenshots/DSA_Glossary.png)
 
 ---
 
